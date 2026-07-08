@@ -5,7 +5,7 @@ const toggleThemeButton = document.querySelector("#toggle-theme-button");
 const deleteChatButton = document.querySelector("#delete-chat-button");
 
 // ⚠️ YOUR API KEY (Keep this secret in production!)
-const API_KEY = "AIzaSyAPQbAdwnVjbEvhvfK0hDG_EsCVSZMG278";
+const API_KEY = "AQ.Ab8RN6IoPHH96Fz26PTot86P5A73JD-97-AeI6uLIr37N8aHXw";
 
 // Updated to the stable 1.5 Flash model endpoint
 const API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent";
